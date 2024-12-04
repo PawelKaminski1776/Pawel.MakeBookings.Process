@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Pawel.MakeBooking.Contracts.props" />
+</Project>

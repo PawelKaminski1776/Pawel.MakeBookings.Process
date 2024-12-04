@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "BowlingSys.Process.Controllers.BowlingSysController",
+    "Method": "GetLane",
+    "RelativePath": "Api/Booking/CheckLogin",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

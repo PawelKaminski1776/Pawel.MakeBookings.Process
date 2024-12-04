@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "BowlingSys.Process.Controllers.BowlingSysController",
+    "Method": "AddBooking",
+    "RelativePath": "Api/MakeBooking/SendBooking",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "BowlingSys.Contracts.BookingDtos.MakeBookingDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

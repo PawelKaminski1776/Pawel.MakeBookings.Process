@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+	<OutputType>Library</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NServiceBus" Version="9.2.2" />
+    <PackageReference Include="NServiceBus.Callbacks" Version="5.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+	<ItemGroup>
+
+	    <ProjectReference Include="..\Pawel.MakeBooking.DBConnect\Pawel.MakeBooking.DBConnect.csproj" />
+	    <ProjectReference Include="..\Pawel.MakeBooking.Contracts\Pawel.MakeBooking.Contracts.csproj" />
+	
+	</ItemGroup>
+</Project>

@@ -1,0 +1,3 @@
+C:\Users\pawel\Documents\Pawel.UserDetails.Process\Pawel.UserDetails.Entities\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\pawel\Documents\Pawel.UserDetails.Process\Pawel.UserDetails.Entities\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\pawel\Documents\Pawel.UserDetails.Process\Pawel.UserDetails.Entities\obj\Release\net8.0\staticwebassets.build.json

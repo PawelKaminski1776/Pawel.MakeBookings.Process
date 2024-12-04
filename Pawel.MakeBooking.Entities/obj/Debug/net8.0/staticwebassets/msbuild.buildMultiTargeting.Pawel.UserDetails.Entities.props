@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Pawel.UserDetails.Entities.props" />
+</Project>

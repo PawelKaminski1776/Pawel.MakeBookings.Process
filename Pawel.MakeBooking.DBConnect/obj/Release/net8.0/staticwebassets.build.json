@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "P7qGZ7ZxlwAqdLSd7y30cRFJaxCmyf5UnkYLusTn6Zg=",
+  "Source": "Pawel.UserDetails.DBConnect",
+  "BasePath": "_content/Pawel.UserDetails.DBConnect",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\pawel\\Documents\\Pawel.UserDetails.Process\\Pawel.UserDetails.Entities\\Pawel.UserDetails.Entities.csproj",
+      "Version": 2,
+      "Source": "Pawel.UserDetails.Entities",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Release;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Release;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

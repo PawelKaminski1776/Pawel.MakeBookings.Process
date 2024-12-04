@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pawel.MakeBooking.Contracts", "Pawel.MakeBooking.Contracts\Pawel.MakeBooking.Contracts.csproj", "{CA2A7C00-D5CE-4599-9AE9-6913A8D33C08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pawel.MakeBooking.Controllers", "Pawel.MakeBooking.Controllers\Pawel.MakeBooking.Controllers.csproj", "{7C237DFE-79F6-42F0-9794-46BE6360155F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pawel.MakeBooking.DBConnect", "Pawel.MakeBooking.DBConnect\Pawel.MakeBooking.DBConnect.csproj", "{2B0EBA07-FA6A-40C1-85D9-7E0DAF382A60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pawel.MakeBooking.Entities", "Pawel.MakeBooking.Entities\Pawel.MakeBooking.Entities.csproj", "{FB7A2310-E038-434D-99A6-ECD99EDDDD24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pawel.MakeBooking.Handlers", "Pawel.MakeBooking.Handlers\Pawel.MakeBooking.Handlers.csproj", "{65A89EA6-E5FA-4F68-83B3-482F72A600AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pawel.MakeBooking.Process", "Pawel.MakeBooking.Process\Pawel.MakeBooking.Process.csproj", "{2B51E829-FFFD-406B-A1CF-35F3F791C3D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA2A7C00-D5CE-4599-9AE9-6913A8D33C08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA2A7C00-D5CE-4599-9AE9-6913A8D33C08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA2A7C00-D5CE-4599-9AE9-6913A8D33C08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA2A7C00-D5CE-4599-9AE9-6913A8D33C08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C237DFE-79F6-42F0-9794-46BE6360155F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C237DFE-79F6-42F0-9794-46BE6360155F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C237DFE-79F6-42F0-9794-46BE6360155F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C237DFE-79F6-42F0-9794-46BE6360155F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B0EBA07-FA6A-40C1-85D9-7E0DAF382A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B0EBA07-FA6A-40C1-85D9-7E0DAF382A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B0EBA07-FA6A-40C1-85D9-7E0DAF382A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B0EBA07-FA6A-40C1-85D9-7E0DAF382A60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB7A2310-E038-434D-99A6-ECD99EDDDD24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB7A2310-E038-434D-99A6-ECD99EDDDD24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB7A2310-E038-434D-99A6-ECD99EDDDD24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB7A2310-E038-434D-99A6-ECD99EDDDD24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65A89EA6-E5FA-4F68-83B3-482F72A600AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65A89EA6-E5FA-4F68-83B3-482F72A600AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65A89EA6-E5FA-4F68-83B3-482F72A600AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65A89EA6-E5FA-4F68-83B3-482F72A600AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B51E829-FFFD-406B-A1CF-35F3F791C3D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B51E829-FFFD-406B-A1CF-35F3F791C3D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B51E829-FFFD-406B-A1CF-35F3F791C3D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B51E829-FFFD-406B-A1CF-35F3F791C3D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB771BA7-2065-4DC2-8B8D-AB3776E6C6A3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@BowlingSys.Process_HostAddress = http://localhost:5064
+
+GET {{BowlingSys.Process_HostAddress}}/GetLane/
+Accept: application/json
+
+###

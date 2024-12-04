@@ -1,0 +1,32 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "BowlingSys.Process",
+    "version": "1.0"
+  },
+  "paths": {
+    "/Api/Booking/GetLane": {
+      "get": {
+        "tags": [
+          "BowlingSys"
+        ],
+        "parameters": [
+          {
+            "name": "booking_ID",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}
